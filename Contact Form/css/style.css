@@ -18,7 +18,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: #8cbf26;
   color: white;
   padding: 12px 20px;
   border: none;;
@@ -28,11 +28,15 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #8cbf26;
+}
+
+.homeimg {
+  margin-top: 25px;
 }
 
 .start {
-  background-color: #4CAF50;
+  background-color: #8cbf26;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -46,15 +50,15 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+
 }
 
 .index {
   text-align: center;
 }
 
-p.header {
+p.dia {
   font-size: 40px;
-  padding-top: 100px;
 }
 
 p.contact {
@@ -69,4 +73,59 @@ p.description {
   padding: 15px;
   font-weight:700;
   margin-bottom: 50px;
+}
+.DIAteam {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:left;
+  margin-top: 30px;
+  padding: 15px 55px;
+}
+
+.DIAmember {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:right;
+  margin-top: 30px;
+  padding: 15px 25px;
+}
+.Back {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:left;
+  padding: 15px 25px;
+  margin-top: 15px;
+}
+.wtcimg
+{
+  margin-top: 90px;
+  margin-right: 110px;
+}
+.contact
+{
+  font-size: 35px;
+}
+.formimg
+{
+  margin-left: 105px;
+}
+.title
+{
+  padding-left:100px;
+  float:left;
 }
