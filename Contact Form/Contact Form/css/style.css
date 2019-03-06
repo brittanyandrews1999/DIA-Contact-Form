@@ -1,0 +1,149 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%
+}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #8cbf26;
+  color: white;
+  padding: 12px 20px;
+  border: none;;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+input[type=submit]:hover {
+  background-color: #8cbf26;
+}
+
+.homeimg {
+  margin-top: 25px;
+}
+
+.start {
+  background-color: #8cbf26;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.index {
+  text-align: center;
+}
+
+p.dia {
+  font-size: 40px;
+}
+
+p.contact {
+  font-size: 36px;
+  font-weight: 700;
+  color: #367c2b;
+}
+
+p.description {
+  border: 1px solid rgba(255, 194, 32, .25);
+  background-color: rgba(255, 194, 32, .25);
+  padding: 15px;
+  font-weight:700;
+  margin-bottom: 50px;
+}
+.DIAteam {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:left;
+  margin-top: 30px;
+  padding: 15px 55px;
+}
+
+.DIAmember {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:right;
+  margin-top: 30px;
+  padding: 15px 25px;
+}
+.Back {
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:left;
+  padding: 15px 25px;
+  margin-top: 15px;
+}
+.wtcimg
+{
+  margin-top: 90px;
+  margin-right: 110px;
+}
+.contact
+{
+  font-size: 35px;
+}
+.formimg
+{
+  margin-left: 185px;
+}
+.title
+{
+  padding-left:100px;
+  float:left;
+}
+.Submit{
+  background-color: #8cbf26;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  text-decoration: none;
+  float:left;
+  padding: 15px 25px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+p.thankyou {
+  font-size: 40px;
+}
+.thankyouimg
+{
+  margin-top:80px;
+}
